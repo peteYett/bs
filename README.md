@@ -1,1 +1,1 @@
-#personal proyecto, ignore that 
+#personal proyect, ignore that 
